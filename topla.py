@@ -1,4 +1,6 @@
-def topla(x,y):
-    return x*y:
+def carmpa(x,y):
+    return x*y
 d=topla(8,3)
-    print(d)
+     print(d)
+
+print("hello world")
